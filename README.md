@@ -6,7 +6,7 @@ sin suscripción y sin registro.
 
 ## Descargar
 
-**[Última versión](../../releases/latest)**
+Descarga la última versión **[desde aquí](../../releases/latest)**
 
 ### Android
 
