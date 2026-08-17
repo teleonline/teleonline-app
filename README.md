@@ -1,8 +1,7 @@
 # Teleonline
 
 App gratuita para ver canales de televisión en abierto, en vivo y en
-directo. Locales, nacionales e internacionales. Sin antena, sin cables,
-sin suscripción y sin registro.
+directo desde fuentes oficiales. Locales, nacionales e internacionales. Sin anuncios y sin suscripciones.
 
 ## Descargar
 
