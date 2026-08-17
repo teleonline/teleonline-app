@@ -35,12 +35,12 @@ Descarga la última versión **[desde aquí](../../releases/latest)**
 
 ## Qué incluye
 
-- Canales en directo: nacionales, internacionales, deportes, noticias,
-  cine y entretenimiento
+- Canales en directo: locales, nacionales e internacionales
 - Guía de programación con recordatorios
-- A la carta: programas emitidos en los últimos 7 días
+- Contenido "A la carta": programas emitidos en los últimos 7 días
+- Contenido "bajo demanda" (VOD) de televisiones públicas
 - Lista de favoritos editable
-- Reproductor con calidad, audio, subtítulos, bloqueo de pantalla,
+- Reproductor con funcionalidades premium: calidad, audio, subtítulos, bloqueo de pantalla,
   apagado automático, segundo plano, gestos y zapping con mando
 - Sincronización entre dispositivos
 - Español, inglés, catalán, euskera y portugués
