@@ -4,7 +4,31 @@ App gratuita para ver canales de televisión en abierto, en vivo y en
 directo. Locales, nacionales e internacionales. Sin antena, sin cables,
 sin suscripción y sin registro.
 
-![captura](docs/screen_1.png)
+### Android
+
+<table>
+  <tr>
+    <td width="33%"><img src="docs/screen_1.png"></td>
+    <td width="33%"><img src="docs/screen_2.png"></td>
+    <td width="33%"><img src="docs/screen_3.png"></td>
+  </tr>
+  <tr>
+    <td align="center">Pantalla principal</td>
+    <td align="center">Detalles del canal </td>
+    <td align="center">A la carta</td>
+  </tr>
+</table>
+
+### Android TV
+
+<table>
+  <tr>
+    <td width="100%"><img src="docs/screen_tv_0.png"></td>
+  </tr>
+  <tr>
+    <td align="center">Interfaz Android TV navegable con mando</td>
+  </tr>
+</table>
 
 ## Descargar
 
