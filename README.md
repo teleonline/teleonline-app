@@ -43,8 +43,8 @@ Nota: La aplicación se va mejorando con el paso del tiempo, esta lista de funci
 
 <table>
   <tr>
-    <td width="33%"><img src="docs/screen_1.png"></td>
-    <td width="33%"><img src="docs/screen_2.png"></td>
+    <td width="33%"><img src="docs/m_1.png"></td>
+    <td width="33%"><img src="docs/m2_2.png"></td>
   </tr>
   <tr>
     <td align="center">Pantalla principal</td>
@@ -56,7 +56,7 @@ Nota: La aplicación se va mejorando con el paso del tiempo, esta lista de funci
 
 <table>
   <tr>
-    <td width="100%"><img src="docs/screen_tv_0.png"></td>
+    <td width="100%"><img src="docs/tv_1.png"></td>
   </tr>
   <tr>
     <td align="center">Interfaz Android TV navegable con mando</td>
