@@ -1,5 +1,7 @@
 # Teleonline (Aplicación)
 
+*[English version](README.en.md)*
+
 Es una aplicación de reproducción multimedia para Android que centraliza el acceso a canales de televisión, mediante listas de reproducción en formato M3U8 y protocolos de streaming estándar (HLS/DASH).
 
 Incorpora una guía electrónica de programación (EPG) con sistema de avisos, gestión de listas de favoritos y soporte para listas y guías EPG definidas por el propio usuario.
@@ -90,6 +92,6 @@ Fallos y sugerencias → pestaña [Issues](../../issues)
 
 ## Legal
 
-**Aviso legal.** Esta aplicación es un reproductor de listas M3U8 y guías de programación, no una plataforma de emisión ni distribución de contenido. La aplicación no aloja, almacena ni retransmite ningún contenido audiovisual. La aplicación y sus creadores no se hacen responsables de nada. El uso de la aplicación es responsabilidad del usuario, que debe respetar la legislación vigente en su país en materia de acceso a contenidos audiovisuales.
+**Aviso legal.** Esta aplicación es un reproductor de listas M3U8 y guías de programación, no una plataforma de emisión ni distribución de contenido. La aplicación no aloja, almacena ni retransmite ningún contenido audiovisual. El uso de la aplicación es responsabilidad del usuario, que debe respetar la legislación vigente en su país en materia de acceso a contenidos audiovisuales.
 
 **Privacidad.** La aplicación no requiere registro ni cuenta de usuario. Las listas de canales personalizadas, la guía de programación propia, los favoritos y los ajustes se guardan únicamente en el dispositivo, sin enviarse a servidores propios o de terceros. La aplicación no incluye publicidad ni módulos de terceros ajenos a esta finalidad.
