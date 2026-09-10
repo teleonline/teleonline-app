@@ -43,8 +43,8 @@ Note: The application is continuously improved over time, so this feature list m
 
 <table>
   <tr>
-    <td width="33%"><img src="docs/screen_1.png"></td>
-    <td width="33%"><img src="docs/screen_2.png"></td>
+    <td width="33%"><img src="docs/m_1.png"></td>
+    <td width="33%"><img src="docs/m_2.png"></td>
   </tr>
   <tr>
     <td align="center">Home screen</td>
@@ -56,7 +56,7 @@ Note: The application is continuously improved over time, so this feature list m
 
 <table>
   <tr>
-    <td width="100%"><img src="docs/screen_tv_0.png"></td>
+    <td width="100%"><img src="docs/tv_1.png"></td>
   </tr>
   <tr>
     <td align="center">Android TV interface, navigable with a remote control</td>
