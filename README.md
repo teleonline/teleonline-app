@@ -13,7 +13,6 @@ Descarga la última versión **[desde aquí](../../releases/latest)**
   <tr>
     <td width="33%"><img src="docs/screen_1.png"></td>
     <td width="33%"><img src="docs/screen_2.png"></td>
-    <td width="33%"><img src="docs/screen_3.png"></td>
   </tr>
   <tr>
     <td align="center">Pantalla principal</td>
