@@ -44,7 +44,7 @@ Nota: La aplicación se va mejorando con el paso del tiempo, esta lista de funci
 <table>
   <tr>
     <td width="33%"><img src="docs/m_1.png"></td>
-    <td width="33%"><img src="docs/m2_2.png"></td>
+    <td width="33%"><img src="docs/m_2.png"></td>
   </tr>
   <tr>
     <td align="center">Pantalla principal</td>
