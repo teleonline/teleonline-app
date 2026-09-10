@@ -16,8 +16,7 @@ Descarga la última versión **[desde aquí](../../releases/latest)**
   </tr>
   <tr>
     <td align="center">Pantalla principal</td>
-    <td align="center">Detalles del canal </td>
-    <td align="center">A la carta</td>
+    <td align="center">Pantalla a la carta</td>
   </tr>
 </table>
 
